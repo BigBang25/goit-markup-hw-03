@@ -237,7 +237,9 @@ align-items: center;
 
 }
 
-
+.header-nav-list-item {
+        /*padding: 24px 0; */
+}
 
 .header-nav-list-item-link {
         display: inline-block;
