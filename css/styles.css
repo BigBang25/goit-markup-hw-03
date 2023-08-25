@@ -216,6 +216,7 @@ button {
         color: var(--cloud);
         text-transform: uppercase
 }
+
 .header-container {
 display: flex;
 align-items: center;
@@ -228,8 +229,7 @@ align-items: center;
 }
 
 .header-nav-list {
-       /* 
-        */
+       
         display: flex;
         align-items: center;
         gap: 40px;
@@ -238,12 +238,13 @@ align-items: center;
 }
 
 .header-nav-list-item {
-        padding: 24px 0;        
+       /* padding: 24px 0; */      
 }
 
 .header-nav-list-item-link {
         display: inline-block;
-        /*padding: 24px 0;*/
+        padding: 24px 0;
+
         padding-right: 76px;
 
         color: var(--navyblue);
@@ -264,6 +265,8 @@ align-items: center;
 
 
 .address {
+        /*display: flex;
+        align-items: center;*/
         margin-left: auto;
 }
 .address-list {
@@ -272,7 +275,7 @@ align-items: center;
         align-items: center;
 
         gap: 40px;
-        padding: 24px 0;
+        /*padding: 24px 0;*/
         
         /*
         padding-top: 24px;
@@ -281,12 +284,12 @@ align-items: center;
 }
 
 .address-list-item {  
-padding: 24px 0;
+/*padding: 24px 0;*/
 }
 
 .address-list-item-link {
         display: inline-block;
-        justify-content: center;
+        /*justify-content: center;*/
                 align-items: center;
                 padding: 24px 0;
 
@@ -558,7 +561,7 @@ border-radius: 0px 0px 4px 4px
 */
 
 .main-buttons {
-        padding-top: 96px;
+        /*padding-top: 96px;*/
         padding-bottom: 120px;
 }
 
