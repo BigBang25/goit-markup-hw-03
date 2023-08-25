@@ -224,6 +224,7 @@ align-items: center;
 width: 1158px;
         margin-left: auto;
         margin-right: auto;
+        padding: 0 15px;
        /* padding-left: 15px;
         padding-right: 15px;*/
 }
@@ -567,7 +568,7 @@ border-radius: 0px 0px 4px 4px
 */
 
 .main-buttons {
-        /*padding-top: 96px;*/
+        padding-top: 96px;
         padding-bottom: 120px;
 }
 
