@@ -277,9 +277,8 @@ align-items: center;
         */
 }
 
-.address-list-item {
-       
-  
+.address-list-item {  
+padding: 24px 0;
 }
 
 .address-list-item-link {
