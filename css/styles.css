@@ -220,13 +220,6 @@ button {
 .header-container {
 display: flex;
 align-items: center;
-
-width: 1158px;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0 15px;
-       /* padding-left: 15px;
-        padding-right: 15px;*/
 }
 
 .header-nav {
@@ -245,12 +238,12 @@ width: 1158px;
 }
 
 .header-nav-list-item {
-       /* padding: 24px 0; */      
+       padding: 24px 0; 
 }
 
 .header-nav-list-item-link {
         display: inline-block;
-        padding: 24px 0;
+        /*padding: 24px 0;*/
 
         padding-right: 76px;
 
@@ -291,14 +284,14 @@ width: 1158px;
 }
 
 .address-list-item {  
-/*padding: 24px 0;*/
+*padding: 24px 0;
 }
 
 .address-list-item-link {
         display: inline-block;
         /*justify-content: center;*/
                 align-items: center;
-                padding: 24px 0;
+                /*padding: 24px 0;*/
 
                 color: var(--slate);
                         font-size: 16px;
