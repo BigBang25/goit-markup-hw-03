@@ -245,7 +245,7 @@ align-items: center;
         display: inline-block;
         padding: 24px 0;
 
-        padding-right: 76px;
+        /*padding-right: 76px;*/
 
         color: var(--navyblue);
                 font-size: 16px;
